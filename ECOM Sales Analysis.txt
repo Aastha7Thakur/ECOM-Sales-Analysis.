@@ -1,0 +1,11 @@
+﻿ECOM Sales Analysis
+
+
+Insights:
+* The central region leads in Sales by a wide margin.
+* Technology category is the most profitable (45.23% of total profit).
+* Total sales span across 147 countries.
+* Sales trend over time shows growth with frequent spikes (likely promotions or seasonal demand).
+* Profit by Region (card): ₹108.42K — could be dynamic based on slicers.
+* Slicers for Country & Category enable interactive filtering.
+* Office Supplies and Furniture are less profitable than Technology.
